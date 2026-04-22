@@ -1,8 +1,7 @@
-streamlit
-pandas
-numpy
-plotly
-lifelines
-shap
-matplotlib
-scikit-learn
+streamlit==1.45.0
+pandas==2.3.3
+plotly==6.7.0
+numpy==1.26.4
+lifelines==0.30.0
+shap==0.51.0
+matplotlib==3.7.2
