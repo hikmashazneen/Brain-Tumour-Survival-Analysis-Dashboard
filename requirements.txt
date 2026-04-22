@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+lifelines
+shap
+matplotlib
+scikit-learn
