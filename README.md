@@ -5,8 +5,6 @@ This project presents an interpretable, web-based machine learning system for pr
 
 The system enables clinicians to generate personalised prognoses, improve risk stratification, and support evidence-based treatment planning while maintaining high standards of interpretability and usability.
 
----
-
 ## Key Features
 
 ### Survival Models Implemented
@@ -49,14 +47,10 @@ The system enables clinicians to generate personalised prognoses, improve risk s
 - Integrated explainability visualisations
 - Secure and user-friendly design
 
----
-
 ## Dataset
 - ~1,400 brain tumour patients
 - Includes demographic, clinical, and treatment variables
 - Has not been included
-
----
 
 ## Evaluation Metrics
 - Concordance Index (C-index)
